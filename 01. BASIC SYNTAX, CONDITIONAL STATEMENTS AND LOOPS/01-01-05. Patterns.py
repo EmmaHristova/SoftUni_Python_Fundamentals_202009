@@ -1,3 +1,4 @@
+# 01-01. BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS [Lab]
 # 05. Patterns
 
 n = int(input())

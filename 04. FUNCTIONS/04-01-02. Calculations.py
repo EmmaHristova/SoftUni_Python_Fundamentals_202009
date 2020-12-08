@@ -1,4 +1,4 @@
-# 04-01. LISTS BASICS [Lab]
+# 04-01. FUNCTIONS [Lab]
 # 02. Calculations
 
 def calculator(a, b, operator):

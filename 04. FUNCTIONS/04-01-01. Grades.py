@@ -1,5 +1,6 @@
-# 04-01. LISTS BASICS [Lab]
+# 04-01. FUNCTIONS [Lab]
 # 01. Grades
+
 def solve(grade):
     if 2.00 <= grade <= 2.99:
         return 'Fail'

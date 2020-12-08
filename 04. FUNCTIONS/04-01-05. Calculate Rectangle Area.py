@@ -1,4 +1,4 @@
-# 04-01. LISTS BASICS [Lab]
+# 04-01. FUNCTIONS [Lab]
 # 05. Calculate Rectangle Area
 
 def rectangle_area(side_a, side_b):

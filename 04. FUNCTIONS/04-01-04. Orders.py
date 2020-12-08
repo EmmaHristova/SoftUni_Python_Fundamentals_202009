@@ -1,4 +1,4 @@
-# 04-01. LISTS BASICS [Lab]
+# 04-01. FUNCTIONS [Lab]
 # 04. Orders
 
 def total(product, quantity):

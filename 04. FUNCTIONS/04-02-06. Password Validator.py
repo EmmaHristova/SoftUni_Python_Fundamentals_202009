@@ -1,4 +1,4 @@
-# 04-02. LISTS BASICS [Exercise]
+# 04-02. FUNCTIONS [Exercise]
 # 06. Password Validator
 
 def valid_pass(string):

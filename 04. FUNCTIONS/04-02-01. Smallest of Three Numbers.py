@@ -1,4 +1,4 @@
-# 04-02. LISTS BASICS [Exercise]
+# 04-02. FUNCTIONS [Exercise]
 # 01. Smallest of Three Numbers
 
 def min_of_three(num1, num2, num3):

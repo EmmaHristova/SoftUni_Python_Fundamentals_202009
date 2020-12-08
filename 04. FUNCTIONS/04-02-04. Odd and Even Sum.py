@@ -1,4 +1,4 @@
-# 04-02. LISTS BASICS [Exercise]
+# 04-02. FUNCTIONS [Exercise]
 # 04. Odd and Even Sum
 
 def odd_even_sum(string):

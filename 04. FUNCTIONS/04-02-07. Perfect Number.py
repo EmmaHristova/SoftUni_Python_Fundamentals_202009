@@ -1,4 +1,4 @@
-# 04-02. LISTS BASICS [Exercise]
+# 04-02. FUNCTIONS [Exercise]
 # 07. Perfect Number
 
 def perfect_number(number):

@@ -1,4 +1,4 @@
-# 04-02. LISTS BASICS [Exercise]
+# 04-02. FUNCTIONS [Exercise]
 # 02. Add and Subtract
 
 def sum_numbers(num1, num2):
